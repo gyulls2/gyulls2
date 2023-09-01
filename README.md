@@ -36,4 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[모던 자바스크립트 Deep Dive] 12장. 함수](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-12%EC%9E%A5.-%ED%95%A8%EC%88%98)
+- [[모던 자바스크립트 Deep Dive] 11장. 원시 값과 객체의 비교](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-11%EC%9E%A5.-%EC%9B%90%EC%8B%9C-%EA%B0%92%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%B9%84%EA%B5%90)
+- [[모던 자바스크립트 Deep Dive] 10장. 객체 리터럴](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-10%EC%9E%A5.-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4)
+- [[모던 자바스크립트 Deep Dive] 9장. 타입 변환과 단축 평가](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-9%EC%9E%A5.-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80)
+- [[모던 자바스크립트 Deep Dive] 8장. 제어문](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-8%EC%9E%A5.-%EC%A0%9C%EC%96%B4%EB%AC%B8)
 <!-- BLOG-POST-LIST:END -->
