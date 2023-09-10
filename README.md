@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] Fragments 사용하기](https://velog.io/@tangerine/React-Fragments-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[모던 자바스크립트 Deep Dive] 23장. 실행 컨텍스트&lpar;2&rpar;](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-23%EC%9E%A5.-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B82)
 - [[모던 자바스크립트 Deep Dive] 23장. 실행 컨텍스트&lpar;1&rpar;](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-23%EC%9E%A5.-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B81)
 - [[모던 자바스크립트 Deep Dive] 13장. 스코프](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-13%EC%9E%A5.-%EC%8A%A4%EC%BD%94%ED%94%84)
 - [[모던 자바스크립트 Deep Dive] 12장. 함수](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-12%EC%9E%A5.-%ED%95%A8%EC%88%98)
-- [[모던 자바스크립트 Deep Dive] 11장. 원시 값과 객체의 비교](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-11%EC%9E%A5.-%EC%9B%90%EC%8B%9C-%EA%B0%92%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%B9%84%EA%B5%90)
 <!-- BLOG-POST-LIST:END -->
