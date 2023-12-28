@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] 프로젝트 리팩토링에 Compound Component Pattern 적용해보기🛠️](https://velog.io/@tangerine/React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%97%90-Compound-Component-Pattern-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [[React] 리액트 공통 모달 컴포넌트 리팩토링🛠️ &lpar;feat. 키보드 접근성&rpar;](https://velog.io/@tangerine/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%8B%AC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%98%EA%B8%B0-feat.-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%A0%91%EA%B7%BC%EC%84%B1)
 - [[모던 자바스크립트 Deep Dive] 16장. 프로퍼티 어트리뷰트](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-16%EC%9E%A5.-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8)
 - [[모던 자바스크립트 Deep Dive] 15장. let, const 키워드와 블록레벨 스코프](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-115%EC%9E%A5.-let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84)
 - [[모던 자바스크립트 Deep Dive] 14장. 전역 변수의 문제점](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-14%EC%9E%A5.-%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)
-- [[React] Fragments 사용하기](https://velog.io/@tangerine/React-Fragments-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
