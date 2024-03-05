@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[C 프로그래밍] 자료형과 선행처리기](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%84%A0%ED%96%89%EC%B2%98%EB%A6%AC%EA%B8%B0)
+- [[C 프로그래밍] C 언어의 개요](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-C-%EC%96%B8%EC%96%B4%EC%9D%98-%EA%B0%9C%EC%9A%94)
 - [[프로그래머스 Lv.0] 짝수 홀수 개수](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%A7%9D%EC%88%98-%ED%99%80%EC%88%98-%EA%B0%9C%EC%88%98)
 - [[프로그래머스 Lv.0] 배열 뒤집기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%B0%B0%EC%97%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)
 - [[프로그래머스 Lv.0] 나이 출력](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%82%98%EC%9D%B4-%EC%B6%9C%EB%A0%A5)
-- [[프로그래머스 Lv.0] 옷가게 할인 받기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%98%B7%EA%B0%80%EA%B2%8C-%ED%95%A0%EC%9D%B8-%EB%B0%9B%EA%B8%B0-k95d57y1)
-- [[React] 프로젝트 리팩토링에 Compound Component Pattern 적용해보기🛠️](https://velog.io/@tangerine/React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%97%90-Compound-Component-Pattern-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
