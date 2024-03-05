@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스 Lv.0] 짝수 홀수 개수](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%A7%9D%EC%88%98-%ED%99%80%EC%88%98-%EA%B0%9C%EC%88%98)
+- [[프로그래머스 Lv.0] 배열 뒤집기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%B0%B0%EC%97%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)
 - [[프로그래머스 Lv.0] 나이 출력](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%82%98%EC%9D%B4-%EC%B6%9C%EB%A0%A5)
 - [[프로그래머스 Lv.0] 옷가게 할인 받기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%98%B7%EA%B0%80%EA%B2%8C-%ED%95%A0%EC%9D%B8-%EB%B0%9B%EA%B8%B0-k95d57y1)
 - [[React] 프로젝트 리팩토링에 Compound Component Pattern 적용해보기🛠️](https://velog.io/@tangerine/React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%97%90-Compound-Component-Pattern-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
-- [[React] 리액트 공통 모달 컴포넌트 리팩토링🛠️ &lpar;feat. 키보드 접근성&rpar;](https://velog.io/@tangerine/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%8B%AC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%98%EA%B8%B0-feat.-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%A0%91%EA%B7%BC%EC%84%B1)
-- [[모던 자바스크립트 Deep Dive] 16장. 프로퍼티 어트리뷰트](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-16%EC%9E%A5.-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8)
 <!-- BLOG-POST-LIST:END -->
