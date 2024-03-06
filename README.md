@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[C 프로그래밍] 연산자](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%B0%EC%82%B0%EC%9E%90)
+- [[C 프로그래밍] 입출력 함수](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%95%A8%EC%88%98)
 - [[프로그래머스 Lv.0] 문자 반복 출력하기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%AC%B8%EC%9E%90-%EB%B0%98%EB%B3%B5-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [[프로그래머스 Lv.0] 문자열 뒤집기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)
 - [[C 프로그래밍] 자료형과 선행처리기](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%84%A0%ED%96%89%EC%B2%98%EB%A6%AC%EA%B8%B0)
-- [[C 프로그래밍] C 언어의 개요](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-C-%EC%96%B8%EC%96%B4%EC%9D%98-%EA%B0%9C%EC%9A%94)
-- [[프로그래머스 Lv.0] 짝수 홀수 개수](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%A7%9D%EC%88%98-%ED%99%80%EC%88%98-%EA%B0%9C%EC%88%98)
 <!-- BLOG-POST-LIST:END -->
