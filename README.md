@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[C 프로그래밍] 함수와 기억 클래스&lpar;2&rpar;](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%A8%EC%88%98%EC%99%80-%EA%B8%B0%EC%96%B5-%ED%81%B4%EB%9E%98%EC%8A%A42)
+- [[C 프로그래밍] 함수와 기억 클래스&lpar;1&rpar;](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%A8%EC%88%98%EC%99%80-%EA%B8%B0%EC%96%B5-%ED%81%B4%EB%9E%98%EC%8A%A41)
 - [[프로그래머스 Lv.0] 배열의 유사도](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84)
 - [[프로그래머스 Lv.0] 각도기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EA%B0%81%EB%8F%84%EA%B8%B0)
 - [[프로그래머스 Lv.0] 양꼬치](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%96%91%EA%BC%AC%EC%B9%98)
-- [[프로그래머스 Lv.0] 특정 문자 제거하기](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
-- [[C 프로그래밍] 연산자](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%B0%EC%82%B0%EC%9E%90)
 <!-- BLOG-POST-LIST:END -->
