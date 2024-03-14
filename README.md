@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스 Lv.0] 가위 바위 보](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EA%B0%80%EC%9C%84-%EB%B0%94%EC%9C%84-%EB%B3%B4)
+- [[프로그래머스 Lv.0] 모스부호 &lpar;1&rpar;](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EB%AA%A8%EC%8A%A4%EB%B6%80%ED%98%B8-1)
 - [[C 프로그래밍] 배열과 포인터&lpar;2&rpar;](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B02)
 - [[C 프로그래밍] 배열과 포인터&lpar;1&rpar;](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B01)
 - [[프로그래머스 Lv.0] 순서쌍의 개수](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98-%EA%B0%9C%EC%88%98)
-- [[프로그래머스 Lv.0] 외계행성의 나이](https://velog.io/@tangerine/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.0-%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98-%EB%82%98%EC%9D%B4)
-- [[C 프로그래밍] 함수와 기억 클래스&lpar;2&rpar;](https://velog.io/@tangerine/C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%A8%EC%88%98%EC%99%80-%EA%B8%B0%EC%96%B5-%ED%81%B4%EB%9E%98%EC%8A%A42)
 <!-- BLOG-POST-LIST:END -->
