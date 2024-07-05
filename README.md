@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[TypeScript] any vs unknown](https://velog.io/@tangerine/TypeScript-any-vs-unknown)
+- [[TypeScript] Utility Type​, Mapped Type​](https://velog.io/@tangerine/TypeScript-Utility-Type-Mapped-Type)
 - [[TypeScript] 클래스, 모듈, 제네릭](https://velog.io/@tangerine/TypeScript-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%AA%A8%EB%93%88-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 - [[TypeScript] 타입 정의](https://velog.io/@tangerine/TypeScript-%ED%83%80%EC%9E%85-%EC%A0%95%EC%9D%98)
 - [[TypeScript] 타입스크립트 환경설정](https://velog.io/@tangerine/TypeScript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
-- [[모던 자바스크립트 Deep Dive] 19장. 프로토타입&lpar;1&rpar;](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-19%EC%9E%A5.-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%851)
-- [[모던 자바스크립트 Deep Dive] 18장. 함수와 일급 객체](https://velog.io/@tangerine/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-18%EC%9E%A5.-%ED%95%A8%EC%88%98%EC%99%80-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4)
 <!-- BLOG-POST-LIST:END -->
