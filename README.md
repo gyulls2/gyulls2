@@ -36,9 +36,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[React-Query] 리액트 쿼리로 데이터 캐싱하기](https://velog.io/@tangerine/React-Query-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%B1)
 - [[TypeScript] any vs unknown](https://velog.io/@tangerine/TypeScript-any-vs-unknown)
 - [[TypeScript] Utility Type​, Mapped Type​](https://velog.io/@tangerine/TypeScript-Utility-Type-Mapped-Type)
 - [[TypeScript] 클래스, 모듈, 제네릭](https://velog.io/@tangerine/TypeScript-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%AA%A8%EB%93%88-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 - [[TypeScript] 타입 정의](https://velog.io/@tangerine/TypeScript-%ED%83%80%EC%9E%85-%EC%A0%95%EC%9D%98)
-- [[TypeScript] 타입스크립트 환경설정](https://velog.io/@tangerine/TypeScript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
 <!-- BLOG-POST-LIST:END -->
